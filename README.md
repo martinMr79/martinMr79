@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin 
-- 👀 I’m interested in webdesign 
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in webdeverlopment 
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on any
 - 📫 How to reach me on mamr@hotmail.no
 
