@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Martin 
+- 👋 Hi, I’m Martin Mroz 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any
-- 📫 How to reach me on mamr@hotmail.no
+- 📫 You can reach me on: 
+
+- Linkedin: https://no.linkedin.com/in/martin-mroz-28008121a
+- Email: mamr@hotmail.no
 
 <!---
 martinMr79/martinMr79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
