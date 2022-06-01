@@ -2,10 +2,11 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any
-- 📫 You can reach me on: 
+- 📫 Reach me on: 
 
-- Linkedin: https://no.linkedin.com/in/martin-mroz-28008121a
-- Email: mamr@hotmail.no
+  [My Linkedin page](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk04jXp4r4AhUZRfEDHQMbCSYQFnoECAcQAQ&url=https%3A%2F%2Fno.linkedin.com%2Fin%2Fmartin-mroz-28008121a&usg=AOvVaw1SSNET_dDG4MRj1uQ6PD__)
+
+  [Email](https://mamr@hotmail.no)
 
 Currently a full time student at Noroff school of technology, studying Front end design.
 
