@@ -13,7 +13,7 @@ A front-end development student at Noroff school of Technology.
 
   ## Tech used:
   
-  [![Tech i use](https://skillicons.dev/icons?i=js,html,css,codepen,github,netlify,ps,wordpress,)](https://skillicons.dev)
+  [![Tech i use](https://skillicons.dev/icons?i=js,html,css,codepen,github,netlify,ps,wordpress,vscode)](https://skillicons.dev)
 
 
 
