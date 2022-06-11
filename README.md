@@ -11,7 +11,7 @@ A front-end development student at Noroff school of Technology.
 
   [Email](https://mamr@hotmail.no)
 
-  ## Tech used:
+  ## Skills:
   
   [![Tech i use](https://skillicons.dev/icons?i=js,html,css,codepen,github,netlify,ps,wordpress,vscode)](https://skillicons.dev)
 
