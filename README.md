@@ -15,7 +15,9 @@ A front-end development student at Noroff school of Technology.
   
   [![Tech i use](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,codepen,github,netlify,xd,ps,wordpress,vscode,)](https://skillicons.dev)
 
+## Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=compact)
 
 <!---
 martinMr79/martinMr79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
