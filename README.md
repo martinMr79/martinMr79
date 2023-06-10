@@ -52,17 +52,13 @@ An aspiring front-end developer. I recently completed my Front-end Development s
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  
-  
-  
-  
-  
 </div>
 
 ## Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=compact)
 
-<!---
-martinMr79/martinMr79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=compact" alt="Top Languages" style="flex-grow: 1;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinMr79" alt="Streak Stats" style="flex-grow: 1;" />
+</div>
+
+
