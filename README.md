@@ -1,7 +1,7 @@
 # Hi, I'm Martin Mroz 👋
 An aspiring front-end developer. I recently completed my Front-end Development studies at Noroff School of Technology and am now seeking new challenges.
 
-## Find out more about me:
+## Find out more about me
 - [My portfolio](https://reliable-quokka-7de969.netlify.app/)
 - [My LinkedIn page](https://www.linkedin.com/in/martin-mroz-28008121a/)
 
@@ -57,8 +57,8 @@ An aspiring front-end developer. I recently completed my Front-end Development s
 ## Stats
 
 <div style="display: flex;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinMr79" alt="Streak Stats" />
-  <img align="center" height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=donut" alt="Top Languages" /> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinMr79" alt="GitHub Streak Stats" />
+  <img align="center" height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=donut" alt="Top Languages Chart" /> 
 </div>
 
 
