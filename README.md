@@ -13,7 +13,7 @@ A front-end development student at Noroff school of Technology.
 
   ## Skills:
   
-  [![Tech i use](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,codepen,github,netlify,xd,ps,wordpress,vscode,)](https://skillicons.dev)
+  [![Tech i use](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,materialui,react,codepen,github,netlify,xd,ps,wordpress,vscode,)](https://skillicons.dev)
 
 ## Stats
 
