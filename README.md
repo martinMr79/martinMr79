@@ -57,8 +57,8 @@ An aspiring front-end developer. I recently completed my Front-end Development s
 ## Stats
 
 <div style="display: flex;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinMr79" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=compact" alt="Top Languages" /> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinMr79" alt="Streak Stats" />
+  <img align="center" height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinMr79&layout=donut" alt="Top Languages" /> 
 </div>
 
 
