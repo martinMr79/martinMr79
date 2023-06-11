@@ -2,7 +2,7 @@
 An aspiring front-end developer. I recently completed my Front-end Development studies at Noroff School of Technology and am now seeking new challenges.
 
 ## Find out more about me
-- [My portfolio](https://reliable-quokka-7de969.netlify.app/)
+- [My portfolio](https://shimmering-macaron-be69c2.netlify.app/)
 - [My LinkedIn page](https://www.linkedin.com/in/martin-mroz-28008121a/)
 
 ## Contact
