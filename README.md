@@ -1,13 +1,6 @@
 # Hi, I'm Martin Mroz 👋
 Transitioning from a seasoned career in logistics to front-end development, I bring a unique blend of analytical skills and creative problem-solving to the tech world. 
 
-## Find out more about me
-- [My portfolio](https://martin-mroz-portfolio.netlify.app/)
-- [My LinkedIn page](https://www.linkedin.com/in/martin-mroz-28008121a/)
-
-## ✉️ Contact Me:
-- Email: mamr@hotmail.no | Phone: +47 90285550
-
 ## 👨‍💻 Skills
 
 #### Tech I Currently Use a Lot
@@ -71,6 +64,13 @@ From leading teams in the oil and gas sector to spearheading air export operatio
 ## 🌍 Languages Spoken:
 
 Norwegian, English, Polish, Spanish
+
+## Find out more about me
+- [My portfolio](https://martin-mroz-portfolio.netlify.app/)
+- [My LinkedIn page](https://www.linkedin.com/in/martin-mroz-28008121a/)
+
+## ✉️ Contact Me:
+- Email: mamr@hotmail.no | Phone: +47 90285550
 
 
 ## Stats
