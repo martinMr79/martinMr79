@@ -5,10 +5,10 @@ Transitioning from a seasoned career in logistics to front-end development, I br
 - [My portfolio](https://martin-mroz-portfolio.netlify.app/)
 - [My LinkedIn page](https://www.linkedin.com/in/martin-mroz-28008121a/)
 
-## Contact
-- Email: mamr@hotmail.no
+## ✉️ Contact Me:
+- Email: mamr@hotmail.no | Phone: +47 90285550
 
-## Skills
+## 👨‍💻 Skills
 
 #### Tech I Currently Use a Lot
 
@@ -53,6 +53,25 @@ Transitioning from a seasoned career in logistics to front-end development, I br
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+## 🛠️ Recent Projects:
+
+Trady AS Website: A sleek, responsive company website utilizing HTML, TailwindCSS, and JavaScript.
+
+## 📚 Education:
+
+Front-end Development: Noroff (2021-2023)
+LTL Freight Forwarding School: Higher Degree (2009-2010)
+Tourism Academy, Commercial Institute: Higher Degree (1999)
+
+## 💼 Professional Background:
+
+From leading teams in the oil and gas sector to spearheading air export operations, my logistics journey has been marked by efficiency, precision, and innovation. I apply these same principles to my work in front-end development.
+
+## 🌍 Languages Spoken:
+
+Norwegian, English, Polish, Spanish
+
 
 ## Stats
 
