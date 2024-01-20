@@ -1,5 +1,5 @@
 # Hi, I'm Martin Mroz 👋
-An aspiring front-end developer. I recently completed my Front-end Development studies at Noroff School of Technology and am now seeking new challenges.
+Transitioning from a seasoned career in logistics to front-end development, I bring a unique blend of analytical skills and creative problem-solving to the tech world. 
 
 ## Find out more about me
 - [My portfolio](https://martin-mroz-portfolio.netlify.app/)
