@@ -30,6 +30,7 @@ Transitioning from a seasoned career in logistics to front-end development, I br
 #### Tech I Have Used Previously or Have Some Experience Using
 
 <div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/NGINX-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Hotjar-FB9237?style=for-the-badge&logo=hotjar&logoColor=white" alt="Hotjar Badge" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge" />
