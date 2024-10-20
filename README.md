@@ -49,19 +49,15 @@ Transitioning from a seasoned career in logistics to front-end development, I br
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## 🛠️ Recent Projects:
+## 💼 Professional Background:
 
-Trady AS Website: A sleek, responsive company website utilizing HTML, TailwindCSS, and JavaScript.
+From leading teams in the oil and gas sector to spearheading air export operations, my logistics journey has been marked by efficiency, precision, and innovation. I now bring these principles into my work as an IT consultant, applying technical expertise and problem-solving.
 
 ## 📚 Education:
 
 Front-end Development: Noroff (2021-2023)
 LTL Freight Forwarding School: Higher Degree (2009-2010)
 Tourism Academy, Commercial Institute: Higher Degree (1999)
-
-## 💼 Professional Background:
-
-From leading teams in the oil and gas sector to spearheading air export operations, my logistics journey has been marked by efficiency, precision, and innovation. I apply these same principles to my work in front-end development.
 
 ## 🌍 Languages Spoken:
 
