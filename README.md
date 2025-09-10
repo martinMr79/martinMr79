@@ -54,6 +54,22 @@ Transitioning from a seasoned career in logistics to front-end development, I br
 
 From leading teams in the oil and gas sector to spearheading air export operations, my logistics journey has been marked by efficiency, precision, and innovation. I now bring these principles into my work as an IT consultant, applying technical expertise and problem-solving.
 
+**Founder & IT Consultant – MrozTech (2025–present)**  
+Providing IT consulting and software development services with focus on:  
+- Web & app development (MERN stack, React, Node.js, MongoDB).  
+- Systems integration and automation (EDI, XML, JSON, APIs).  
+- Cloud deployment, server management (NGINX, Express, SSL).  
+- Tailored logistics-tech solutions and digitalization projects.  
+
+**IT Consultant – ColliCare Logistics (2024–2025)**  
+Worked on digital freight solutions and integrations, including:  
+- Developed and maintained EDI/XML/EDIFACT integrations (CarLo, Opter, MapForce, FlowForce).  
+- Built and supported the custom MERN-stack web application for secure night-delivery operations.  
+- Automated workflows and data exchanges between carriers.  
+- Implemented robust error handling, server setups (Node.js/Express, NGINX), and database solutions (MongoDB).  
+- Collaborated with internal teams and external partners to streamline logistics processes through technology.  
+
+
 ## 📚 Education:
 
 Front-end Development: Noroff (2021-2023)
