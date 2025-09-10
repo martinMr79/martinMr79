@@ -1,5 +1,5 @@
 # Hi, I'm Martin Mroz 👋
-Transitioning from a seasoned career in logistics to front-end development, I bring a unique blend of analytical skills and creative problem-solving to the tech world. 
+Founder of **MrozTech**, I bring a unique blend of logistics expertise and technical skills into IT consulting and software development. After a seasoned career in logistics, I transitioned into tech to build and deliver modern digital solutions — combining analytical precision with creative problem-solving.
 
 ## 👨‍💻 Skills
 
